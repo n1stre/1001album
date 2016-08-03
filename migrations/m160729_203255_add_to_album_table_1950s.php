@@ -30,7 +30,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:50:25',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1955__fs--wsh.jpg',
             ],
             [
                 2,
@@ -43,7 +43,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:28:42',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1956__ep--ep.jpg',
             ],
             [
                 3,
@@ -56,7 +56,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:35:58',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1956__tlb--tsol.jpg',
             ],
             [
                 4,
@@ -69,7 +69,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:32:00',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1956__lp--tw.jpg',
             ],
             [
                 5,
@@ -82,7 +82,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:27:11',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1956__fd--tif.jpg',
             ],
             [
                 6,
@@ -95,7 +95,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:44:00',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1956__de--ean.jpg',
             ],
             [
                 7,
@@ -108,7 +108,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:45:00',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1956__fs--sfsl.jpg',
             ],
             [
                 8,
@@ -121,7 +121,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:25:59',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1957__tc--tcc.jpg',
             ],
             [
                 9,
@@ -134,7 +134,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:39:30',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1957__cb--tamb.jpg',
             ],
             [
                 10,
@@ -147,7 +147,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:43:08',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1957__tm--bc.jpg',
             ],
             [
                 11,
@@ -160,7 +160,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:40:52',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1957__s--pc.jpg',
             ],
             [
                 12,
@@ -173,7 +173,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:37:59',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1957__md-botc.jpg',
             ],
             [
                 13,
@@ -186,7 +186,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:35:46',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1957__m-k.jpg',
             ],
             [
                 14,
@@ -199,7 +199,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:27:31',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1957__lr--hlr.jpg',
             ],
             [
                 15,
@@ -212,7 +212,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:38:41',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1958__tpaho--dmv1.jpg',
             ],
             [
                 16,
@@ -225,7 +225,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:39:10',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1958__bh--lis.jpg',
             ],
             [
                 17,
@@ -238,7 +238,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:31:45',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1958__je--jttf.jpg',
             ],
             [
                 18,
@@ -251,7 +251,7 @@ class m160729_203255_add_to_album_table_1950s extends Migration
                 'USA',
                 '00:37:00',
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ullamcorper orci. Fusce ac lacus.',
-                '',
+                '1958__sv--svamk.jpg',
             ],
             [
                 19,

@@ -5,9 +5,12 @@ namespace app\controllers;
 use Yii;
 use yii\filters\AccessControl;
 use yii\web\Controller;
+use yii\data\Pagination;
 use yii\filters\VerbFilter;
 use app\models\LoginForm;
 use app\models\ContactForm;
+use app\models\Album;
+use app\models\Author;
 
 class SiteController extends Controller
 {
@@ -61,6 +64,38 @@ class SiteController extends Controller
     public function actionIndex()
     {
         return $this->render('index');
+    }
+
+    /**
+     * Displays homepage.
+     *
+     * @return string
+     */
+    public function actionAlbums()
+    {
+        $albumQuery  = Album::find();
+        $authorQuery = Author::find();
+
+        $pagination = new Pagination([
+            'defaultPageSize' => 9,
+            'totalCount'      => $albumQuery->count(),
+        ]);
+
+        $authors = $authorQuery
+            ->orderBy('id')
+            ->all();
+
+        $albums = $albumQuery
+            ->orderBy('year')
+            ->offset($pagination->offset)
+            ->limit($pagination->limit)
+            ->all();
+
+        return $this->render('albums', [
+            'albums'     => $albums,
+            'authors'    => $authors,
+            'pagination' => $pagination,
+        ]);
     }
 
     /**

@@ -89,3 +89,38 @@ a.desc:after {
     padding: 10px 20px;
     margin: 0 0 15px 0;
 }
+
+.clearfix:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+/* ============================
+    albums styling
+================================ */
+
+
+
+.albums {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.album {
+    display: block;
+    float: left;
+    width: 33.33333%;
+}
+
+.album:nth-child(3n+1) {
+    clear: left;
+}
+
+.album__image {
+    width: 100%;
+    display: block;
+}
+
